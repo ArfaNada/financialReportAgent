@@ -1,4 +1,4 @@
-# Multi Agent Financial Report Generator with Agents
+# Multi Agent Financial Report Generator
 
 ## Overview
 
